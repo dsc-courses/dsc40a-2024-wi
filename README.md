@@ -1,3 +1,3 @@
-# dsc40a-2023-sp
+# dsc40a-2024-wi
 
-Public repository for the Spring 2023 offering of DSC 40A.
+Public repository for the Winter 2024 offering of DSC 40A.
