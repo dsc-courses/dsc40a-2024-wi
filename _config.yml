@@ -21,6 +21,14 @@ url: 'https://dsc40a.com' # the base hostname & protocol for your site, e.g. htt
 author: Janine Tiefenbruck
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
+title: DSC 40A
+description: DSC 40A, Winter 2024 at UC San Diego
+tagline: Theoretical Foundations of Data Science I
+baseurl: '/dsc10-2024-wi' # the subpath of your site, e.g. /blog
+url: 'https://dsc-courses.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+author: Aobo Li
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 color_scheme: bluecsd
