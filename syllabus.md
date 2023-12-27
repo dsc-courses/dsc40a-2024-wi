@@ -19,10 +19,6 @@ description: Course structure and policies.
 
 ## About This Course🧐
 
-- How do we know if an avocado is going to be ripe before we eat it? 
-- How do we predict the salary of a future data scientist?
-- How do we teach a computer to read handwriting?
-
 The world is increasingly recognizing the value of data in solving complex and open-ended problems such as these. Instead of explicitly telling the computer exactly how to differentiate between the letters of the alphabet, we instead give the computer many examples of each letter and let it learn the differences automatically. Similarly, by identifying patterns in data, we can learn which factors combine to make an avocado ready-to-eat or a person likely to be a successful data scientist. The explosive growth of data science is largely due to the fact that this approach of learning from data often works remarkably well.
 
 But how do we learn from data? This is the central question of DSC 40A. We will see that virtually every rigorous learning method involves two steps: 1) turning the abstract problem of learning into a concrete math problem; and 2) solving that math problem. This quarter, we will see how to apply this fundamental approach in a variety of contexts. After this class, you will understand the basic theoretical principles underlying almost every machine learning and data science method — from simple linear regression to deep neural networks. You'll also be better prepared to tackle the math you'll see in your upper-division courses, like vector calculus, linear algebra, and probability.
