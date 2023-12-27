@@ -31,7 +31,7 @@ But how do we learn from data? This is the central question of DSC 40A. We will 
 
 ## Communication 💬
 
-This quarter, we'll be using [Campuswire](https://campuswire.com/p/GAA3B3FEA) as our course message board. You should be added to Campuswire automatically; if not, you can add yourself. Please join right away as we'll be making all course announcements through Campuswire.
+This quarter, we'll be using [Campuswire](https://campuswire.com/c/G05938D13) as our course message board. You should be added to Campuswire automatically; if not, you can add yourself. Please join right away as we'll be making all course announcements through Campuswire.
 
 If you have a question about anything to do with the course — if you're stuck on a problem, didn't understand something from lecture, want clarification on course logistics, or just have a general question about data science — you can make a post on Campuswire. We only ask that if your question includes some or all of an answer (even if you're not sure it's right), please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
 
@@ -46,8 +46,8 @@ We won't be using the direct messaging (DM) functionality of Campuswire, nor wil
 We will be using several websites this quarter. Here's what they're all used for:
 
 - [Course Website](https://dsc40a.com): where all content will be posted.
-- [Campuswire](https://campuswire.com/p/GAA3B3FEA): discussion forum for announcements and communication.
-- [Gradescope](https://www.gradescope.com/courses/528124): platform for submitting assignments and viewing grades. You should be automatically added to Gradescope; let us know if not.
+- [Campuswire](https://campuswire.com/c/G05938D13): discussion forum for announcements and communication.
+- [Gradescope](https://www.gradescope.com/courses/687894): platform for submitting assignments and viewing grades. You should be automatically added to Gradescope; let us know if not.
 - [Datahub](https://datahub.ucsd.edu): UCSD's data science and machine learning platform, for coding in Jupyter notebooks.
 
 ---
@@ -59,8 +59,8 @@ This course will include in-person lectures, groupwork sessions in discussion se
 ### Lecture
 
 There are two lecture sections:
-- A00: MWF 10-10:50am in [WLH 2204](https://map.concept3d.com/?id=1005#!m/246292)
-- B00: MWF 11-11:50am in [WLH 2204](https://map.concept3d.com/?id=1005#!m/246292)
+- MWF 1:00-1:50pm in Mandeville B-210
+
 
 Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
@@ -73,8 +73,7 @@ See the homepage of this website and the [Resources](../resources) tab for acces
 ### Discussion
 
 Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. There are two discussion sections on Wednesday evenings:
-- A00: Weds 7-7:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
-- B00: Weds 8-8:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
+- Monday 5-5:50pm in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320)
 
 We will provide a worksheet of problems, which you will complete in a group of two to four students. The groupwork should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment. 
 
@@ -86,7 +85,7 @@ Submit your worksheet to Gradescope by 11:59pm on Wednesday night. Only one memb
 
 ### Homeworks
 
-This class will have weekly homework assignments, which will be due to Gradescope on Tuesdays at 11:59pm.
+This class will have weekly homework assignments, which will be due to Gradescope on Wednesday at 11:59pm.
 
 Homeworks should be written or typed up and turned in by each student individually. If you want to type up your answers, we will provide a LaTeX template through Overleaf; click the 🍃 emoji next to each homework on the homepage to access the template. Follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make a copy of the template, and then add your solutions. 
 
@@ -111,8 +110,8 @@ To summarize, here's what a typical week will look like in the course (there may
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | -- | -- | -- | -- | -- | -- | -- |
-| | Lecture |  | Lecture and Discussion |  | Lecture |  |
-| | | **Homework due 11:59pm** | **Groupwork due 11:59pm** | | | |
+| | Lecture and Discussion |  | Lecture |  | Lecture |  |
+| | **Groupwork due 11:59pm**|  | **Homework due 11:59pm** | | | |
 
 ---
 
@@ -120,10 +119,10 @@ To summarize, here's what a typical week will look like in the course (there may
 
 There will be two midterm exams (not cumulative) and a final exam broken into two separate parts. 
 
-- Midterm 1: Friday, May 5, in-person during lecture (10am for A00, 11am for B00)
-- Midterm 2:  Monday, June 5, in-person during lecture (10am for A00, 11am for B00)
-- Final, Part 1: Saturday, June 10, in-person from 9-9:50am
-- Final, Part 2: Saturday, June 10, in-person from 10-10:50am
+- Midterm 1: Friday, Feb. 9, in-person during lecture 
+- Midterm 2:  Wednesday, Mar. 13, in-person during lecture 
+- Final, Part 1: Friday, Mar. 22, in-person from 11:30-12:20pm
+- Final, Part 2: Friday, Mar. 22, in-person from 12:30-1:20pm
 
 The final exam for this course will consist of two parts, which will be graded separately: part one will cover the material of the first midterm, and part two will cover the material of the second midterm. If you do better on either part of the final than the corresponding midterm, then your score on that part will replace your score on the midterm. If you do better on both parts, then both scores can be replaced. This gives you two chances to demonstrate understanding of the course material, once during the quarter and once after the quarter.  This also allows you to miss one or both midterms if necessary, and it makes the final exam optional if you've taken both midterms. You can take both parts of the final, just one part, or neither. If you are happy with both midterm scores, for example, you don’t need to take the final at all. 
 

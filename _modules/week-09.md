@@ -10,9 +10,9 @@
       - date: 2024-3-6
         events:
          "**LEC 23**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec23.pdf) [✏️](resources/lecture/lec23_b00.pdf)":
-         "**HW 7**{: .label .label-hw }":
           # "**HW 7**{: .label .label-hw } [Homework 7](resources/homework/hw7/homework7.pdf) [🍃](https://www.overleaf.com/read/zkppqvmmtbtb)":
       - date: 2024-3-8
         events:
           "**LEC 24**{: .label .label-lecture } [More Naive Bayes](resources/lecture/lec24.pdf) [✏️](resources/lecture/lec24_b00.pdf)":
+          "**HW 7**{: .label .label-hw }":
 ---

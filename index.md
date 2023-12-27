@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Welcome to DSC40A Winter 24! Please note that the weekly schedule below is not final. If you have any question, please feel free to email the instructor.
+Welcome to DSC40A Winter 2024! Please note that the weekly schedule below is not final. If you have any question, please feel free to email the instructor.
 
 {{ site.staffersnobio }}
 
