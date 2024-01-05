@@ -54,8 +54,7 @@ This course will include in-person lectures, groupwork sessions in discussion se
 
 ### Lecture
 
-There are two lecture sections:
-- MWF 1:00-1:50pm in Mandeville B-210
+- MWF 1:00-1:50pm in Mandeville B-202
 
 
 Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
