@@ -5,16 +5,16 @@
       - date: 2024-1-15
         events:
          "Martin Luther King, Jr. Holiday":
-          # "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf) [✏️](resources/lecture/lec04_a00.pdf)": 
+          # "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf) ": 
           #   "[📖 12-16](resources/notes/notes_chapter_1.pdf#page=12) + [📖](resources/notes/spread.pdf)"
           # "**DISC**{: .label .label-disc }":
       - date: 2024-1-17
         events:
-          "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf) [✏️](resources/lecture/lec04_a00.pdf)": 
+          "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf) ": 
             "[📖 12-16](resources/notes/notes_chapter_1.pdf#page=12) + [📖](resources/notes/spread.pdf)"
           "**HW 1**{: .label .label-hw } ":
       - date: 2024-1-19
         events:
-          "**LEC 5**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05.pdf) [✏️](resources/lecture/lec05_b00.pdf)": 
+          "**LEC 5**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05.pdf) ":
             "[📖 15-17](resources/notes/notes_chapter_1.pdf#page=15)"
 ---
