@@ -54,8 +54,7 @@ This course will include in-person lectures, groupwork sessions in discussion se
 
 ### Lecture
 
-There are two lecture sections:
-- MWF 1:00-1:50pm in Mandeville B-210
+- MWF 1:00-1:50pm in Mandeville B-202
 
 
 Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
@@ -68,7 +67,8 @@ See the homepage of this website and the [Resources](../resources) tab for acces
 
 ### Discussion
 
-Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. There are two discussion sections on Wednesday evenings:
+Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. The discussion day and time are:
+
 - Monday 5-5:50pm in [PCYNH 106](https://map.concept3d.com/?id=1005#!m/246320)
 
 We will provide a worksheet of problems, which you will complete in a group of two to four students. The groupwork should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment. 
@@ -77,7 +77,7 @@ You must attend the discussion section you are officially enrolled in. **Attenda
 
 If you have specific people in your section that you want to work with, you may work together, otherwise, the TA will pair you with other students.
 
-Submit your worksheet to Gradescope by 11:59pm on Wednesday night. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
+Submit your worksheet to Gradescope by 11:59pm on Monday night. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
 
 ### Homeworks
 
