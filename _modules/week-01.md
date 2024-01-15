@@ -14,7 +14,7 @@
           "**SURV**{: .label .label-survey } [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSe-u3gy2b-MbNV4vT20U_hTTA8aOrOtsIA7fBa8dhCy0_Zs8A/viewform?usp=sf_link)":
       - date: 2024-1-12
         events:
-          "**LEC 3**{: .label .label-lecture } [Mean Squared Error and Empirical Risk Minimization](resources/lecture/lec03.pdf)": 
+          "**LEC 3**{: .label .label-lecture } [Mean Squared Error and Empirical Risk Minimization](resources/lecture/lec03.pdf) [✏️](resources/lecture/lec03-marked.pdf)": 
             "[📖 pg 9-12](resources/notes/notes_chapter_1.pdf#page=9)"
 
 ---
