@@ -4,10 +4,10 @@
     days:
       - date: 2024-1-15
         events:
-          #  "Martin Luther King, Jr. Holiday":
+          "*Martin Luther King, Jr. Holiday*": "no lecture"
           # "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf) ": 
           #   "[📖 12-16](resources/notes/notes_chapter_1.pdf#page=12) + [📖](resources/notes/spread.pdf)"
-          "**DISC**{: .label .label-disc }[Groupwork 2 Solution](resources/groupwork/groupwork2_release.pdf) ":
+          "**DISC**{: .label .label-disc }[Groupwork 2 Solution](resources/groupwork/groupwork2_release.pdf) (not graded) ":
 
       - date: 2024-1-17
         events:
