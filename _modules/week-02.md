@@ -13,7 +13,7 @@
         events:
           "**LEC 4**{: .label .label-lecture } [ERM, Center and Spread](resources/lecture/lec04.pdf) [✏️](resources/lecture/lec04-marked.pdf)": 
             "[📖 12-16](resources/notes/notes_chapter_1.pdf#page=12) + [📖](resources/notes/spread.pdf)"
-          "**HW 1**{: .label .label-hw } [Homework 1](resources/homework/hw1/homework1_release.pdf)":
+          "**HW 1**{: .label .label-hw } [Homework 1 Solution](resources/homework/hw1/homework1_sol.pdf)":
             "[HW 1 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
       - date: 2024-1-19
         events:
