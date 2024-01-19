@@ -17,6 +17,6 @@
             "[HW 1 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
       - date: 2024-1-19
         events:
-          "**LEC 5**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05.pdf) ":
+          "**LEC 5**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05_new.pdf) [✏️](resources/lecture/lec05-marked.pdf) ":
             "[📖 15-17](resources/notes/notes_chapter_1.pdf#page=15)"
 ---
