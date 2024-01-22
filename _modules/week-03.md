@@ -4,7 +4,7 @@
     days:
       - date: 2024-1-22
         events:
-          "**LEC 6**{: .label .label-lecture } [Gradient Descent in Action](resources/lecture/lec06.pdf)  [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec06/lec06.ipynb)":
+          "**LEC 6**{: .label .label-lecture } [Gradient Descent in Action](resources/lecture/lec06-blank.pdf) [✏️](resources/lecture/lec06-annotated.pdf)  [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec06/lec06.ipynb)":
             "[📖 1-4](resources/notes/notes_chapter_2.pdf)"
           "**DISC**{: .label .label-disc } [Groupwork 3](resources/groupwork/groupwork3_release.pdf)":
       - date: 2024-1-24
