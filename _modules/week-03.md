@@ -9,7 +9,7 @@
           "**DISC**{: .label .label-disc } [Groupwork 3](resources/groupwork/groupwork3_release.pdf)":
       - date: 2024-1-24
         events:
-          "**LEC 7**{: .label .label-lecture } [Linear Prediction Rules](resources/lecture/lec07.pdf) ": 
+          "**LEC 7**{: .label .label-lecture } [Linear Prediction Rules](resources/lecture/lec07.pdf) [✏️](resources/lecture/lec07-marked.pdf)": 
             "[📖 4-7](resources/notes/notes_chapter_2.pdf)"
           "**HW 2**{: .label .label-hw } [Homework 2](resources/homework/hw2/homework2_release.pdf)":
             "[HW 2 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
