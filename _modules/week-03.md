@@ -15,5 +15,5 @@
             "[HW 2 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
       - date: 2024-1-26
         events:
-          "**LEC 8**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec08.pdf) ":
+          "**LEC 8**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec08.pdf) [✏️](resources/lecture/lec08-marked.pdf)":
 ---
