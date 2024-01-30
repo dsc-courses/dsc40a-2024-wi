@@ -4,7 +4,7 @@
     days:
       - date: 2024-1-29
         events:
-          "**LEC 9**{: .label .label-lecture } [Regression in Action and Linear Algebra Review](resources/lecture/lec09.pdf)  [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec09/lec09.ipynb)":
+          "**LEC 9**{: .label .label-lecture } [Regression in Action and Linear Algebra Review](resources/lecture/lec09.pdf) [✏️](resources/lecture/lec09-marked.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec09/lec09.ipynb) ":
           "**DISC**{: .label .label-disc } [Groupwork 4](resources/groupwork/groupwork4_release.pdf)":
       - date: 2023-1-31
         events:
