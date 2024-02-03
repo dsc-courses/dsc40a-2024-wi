@@ -14,6 +14,6 @@
             "[HW 3 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
       - date: 2024-2-2
         events:
-          "**LEC 11**{: .label .label-lecture } [The Normal Equations](resources/lecture/lec11.pdf) ":
+          "**LEC 11**{: .label .label-lecture } [The Normal Equations](resources/lecture/lec11.pdf) [✏️](resources/lecture/lec11-marked.pdf)":
             "[📖 11-14](resources/notes/notes_chapter_2.pdf)"
 ---
