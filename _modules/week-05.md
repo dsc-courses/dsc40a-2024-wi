@@ -4,7 +4,7 @@
     days:
       - date: 2024-2-5
         events:
-          "**LEC 12**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lecture/lec12.pdf) [✏️](resources/lecture/lec12-marked.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec12/lec12.ipynb)":
+          "**LEC 12**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lecture/lec12-marked.pdf) [✏️](resources/lecture/lec12-marked.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec12/lec12.ipynb)":
             "[📖 14-19](resources/notes/notes_chapter_2.pdf)"
           "**DISC**{: .label .label-disc } Midterm 1 Prep: [Mock Exam](resources/exams/mockmidterm_handwritten_notes.pdf)":
           # "**DISC**{: .label .label-disc } Midterm 1 Prep: [Mock Exam](resources/exams/mockmidterm1.pdf), [Solutions](resources/exams/mockmidterm1sol.pdf), and [Rubric](resources/exams/mockmidterm1rubric.pdf)":
