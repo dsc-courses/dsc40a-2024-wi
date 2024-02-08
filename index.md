@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Welcome to DSC40A Winter 2024! Please note that the weekly schedule below is not final. If you have any question, please feel free to email the instructor.
+Midterm 1 will be on Friday, Feb. 9th. The [Assigned Seat](resources/exams/seating_mdtm1.pdf) is posted. If you could not find your student ID on this file, please come to the podium and talk to me before the exam start, I will assign a seat to you.
 
 {{ site.staffersnobio }}
 
