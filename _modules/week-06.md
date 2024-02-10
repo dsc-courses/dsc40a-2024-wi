@@ -14,5 +14,5 @@
       - date: 2024-2-16
         events:
           "**LEC 16**{: .label .label-lecture } [Conditional Probability, Sequences and Permutations](resources/lecture/lec16.pdf) ":
-          "**HW 4**{: .label .label-hw }":
+          "**HW 4**{: .label .label-hw } [Homework 4](resources/homework/hw4/hw4.pdf)":
 ---
