@@ -14,6 +14,7 @@
       - date: 2024-2-9
         events:
           "**EXAM**{: .label .label-exam } Midterm 1 (during lecture) [📝](resources/exams/reference_1.pdf)[💫](resources/exams/mockmidterm1.pdf)[⭐️](resources/exams/mockmidterm1sol.pdf)[✨](resources/exams/mockmidterm1rubric.pdf)":
+          "**EXAM**{: .label .label-exam } [Midterm 1 Solution](resources/exams/wi24_midterm1_solution.pdf)":
 ---
 
 

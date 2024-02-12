@@ -5,8 +5,8 @@
       - date: 2024-2-12
         events:
           "**LEC 14**{: .label .label-lecture } [Clustering](resources/lecture/lec14.pdf)  [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec14/lec14.ipynb)":
-          "**DISC**{: .label .label-disc } ":
-          # "**DISC**{: .label .label-disc } [Groupwork 5](resources/groupwork/groupwork5.pdf)":
+          # "**DISC**{: .label .label-disc } ":
+          "**DISC**{: .label .label-disc } [Groupwork 5](resources/groupwork/groupwork5_release.pdf)":
       - date: 2024-2-14
         events:
           "**LEC 15**{: .label .label-lecture } [Foundations of Probability](resources/lecture/lec15.pdf) ":
@@ -15,4 +15,5 @@
         events:
           "**LEC 16**{: .label .label-lecture } [Conditional Probability, Sequences and Permutations](resources/lecture/lec16.pdf) ":
           "**HW 4**{: .label .label-hw } [Homework 4](resources/homework/hw4/hw4.pdf)":
+           "[HW 4 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
 ---
