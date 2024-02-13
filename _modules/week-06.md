@@ -4,7 +4,7 @@
     days:
       - date: 2024-2-12
         events:
-          "**LEC 14**{: .label .label-lecture } [Clustering](resources/lecture/lec14.pdf)  [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec14/lec14.ipynb)":
+          "**LEC 14**{: .label .label-lecture } [Clustering](resources/lecture/lec14.pdf)  [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec14/lec14.ipynb) [✏️](resources/lecture/lec14-marked.pdf) [🌋](resources/lecture/neutrino_HPGE.pdf)":
           # "**DISC**{: .label .label-disc } ":
           "**DISC**{: .label .label-disc } [Groupwork 5](resources/groupwork/groupwork5_release.pdf)":
       - date: 2024-2-14
