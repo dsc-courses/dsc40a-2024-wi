@@ -9,7 +9,7 @@
           "**DISC**{: .label .label-disc } [Groupwork 5](resources/groupwork/groupwork5_release.pdf)":
       - date: 2024-2-14
         events:
-          "**LEC 15**{: .label .label-lecture } [Foundations of Probability](resources/lecture/lec15.pdf) ":
+          "**LEC 15**{: .label .label-lecture } [Foundations of Probability](resources/lecture/lec15.pdf) [✏️](resources/lecture/lec15-marked.pdf)":
           # "**HW 4**{: .label .label-hw } [Homework 4](resources/homework/hw4/homework4.pdf) [🍃](https://www.overleaf.com/read/zrhbfxsbqdrj)":
       - date: 2024-2-16
         events:
