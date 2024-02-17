@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Midterm 1 will be on Friday, Feb. 9th. The [Assigned Seat](resources/exams/seating_mdtm1.pdf) is posted. If you could not find your student ID on this file, please come to the podium and talk to me before the exam start, I will assign a seat to you.
+Lec. 16 annotated notes are posted.
 
 {{ site.staffersnobio }}
 

@@ -13,7 +13,7 @@
           # "**HW 4**{: .label .label-hw } [Homework 4](resources/homework/hw4/homework4.pdf) [🍃](https://www.overleaf.com/read/zrhbfxsbqdrj)":
       - date: 2024-2-16
         events:
-          "**LEC 16**{: .label .label-lecture } [Conditional Probability, Sequences and Permutations](resources/lecture/lec16.pdf) ":
+          "**LEC 16**{: .label .label-lecture } [Conditional Probability, Sequences and Permutations](resources/lecture/lec16.pdf) [✏️](resources/lecture/lec16-marked.pdf) ":
           "**HW 4**{: .label .label-hw } [Homework 4](resources/homework/hw4/hw4.pdf)":
            "[HW 4 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
 ---
