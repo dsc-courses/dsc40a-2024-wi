@@ -8,7 +8,7 @@
       - date: 2024-2-21
         events:
           "**LEC 17**{: .label .label-lecture } [Sequences, Permutations, and Combinations](resources/lecture/lec17.pdf) [✏️](resources/lecture/lec17-marked.pdf) ":
-          "**HW 5**{: .label .label-hw } [Homework 5](resources/homework/hw5/hw5.pdf)":
+          "**HW 5**{: .label .label-hw } [Homework 5 Solution](resources/homework/hw5/homework5_solution.pdf)":
            "[HW 5 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
       - date: 2024-2-23
         events:
