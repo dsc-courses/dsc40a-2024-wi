@@ -12,5 +12,5 @@
            "[HW 5 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)"
       - date: 2024-2-23
         events:
-            "**LEC 18**{: .label .label-lecture } [Probability and Combinatorics Examples](resources/lecture/lec18.pdf) ":
+            "**LEC 18**{: .label .label-lecture } [✏️](resources/lecture/lec18-marked.pdf) [Probability and Combinatorics Examples](resources/lecture/lec18.pdf) ":
 ---
