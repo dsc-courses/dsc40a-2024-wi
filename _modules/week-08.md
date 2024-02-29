@@ -11,7 +11,7 @@
           "**DISC**{: .label .label-disc } [Groupwork 6 Solution](resources/groupwork/groupwork6_solution.pdf)":
       - date: 2024-2-28
         events:
-          "**LEC 20**{: .label .label-lecture } [Law of Total Probability and Bayes' Theorem](resources/lecture/lec20.pdf) [✏️](resources/lecture/lec19-marked.pdf)":
+          "**LEC 20**{: .label .label-lecture } [Law of Total Probability and Bayes' Theorem](resources/lecture/lec20.pdf) [✏️](resources/lecture/lec20-marked.pdf)":
           # "**LEC 22**{: .label .label-lecture } [Independence and Conditional Independence](resources/lecture/lec22.pdf) ":
           "**HW 6**{: .label .label-hw } [Homework 6](resources/homework/hw6/homework6.pdf) [🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)" :
             # "**HW 6**{: .label .label-hw } [Homework 6](resources/homework/hw6/homework6.pdf) [🍃](https://www.overleaf.com/read/jdwzqttznxmt)":
