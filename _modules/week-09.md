@@ -14,5 +14,6 @@
       - date: 2024-3-8
         events:
           "**LEC 24**{: .label .label-lecture } [More Naive Bayes](resources/lecture/lec24.pdf) ":
-          "**HW 7**{: .label .label-hw }":
+          "**HW 7**{: .label .label-hw } [Homework 5](resources/homework/hw7/homework7.pdf)":
+           "[HW 7 🍃](https://www.overleaf.com/read/xsqfgtvkbqjr#8692bd)":
 ---
