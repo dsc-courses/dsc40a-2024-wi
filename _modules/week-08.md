@@ -17,5 +17,5 @@
             # "**HW 6**{: .label .label-hw } [Homework 6](resources/homework/hw6/homework6.pdf) [🍃](https://www.overleaf.com/read/jdwzqttznxmt)":
       - date: 2024-3-1
         events:
-          "**LEC 21**{: .label .label-lecture } [Independence](resources/lecture/lec21.pdf) ":
+          "**LEC 21**{: .label .label-lecture } [Independence](resources/lecture/lec21.pdf) [✏️](resources/lecture/lec21-marked.pdf) ":
 ---
