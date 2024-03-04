@@ -5,7 +5,7 @@
       - date: 2024-3-4
         events:
           "**LEC 22**{: .label .label-lecture } [Independence and Conditional Independence](resources/lecture/lec22.pdf) ":
-          "**DISC**{: .label .label-disc }":
+          "**DISC**{: .label .label-disc }[Groupwork 7](resources/groupwork/groupwork7.pdf) ":
           # "**DISC**{: .label .label-disc } Midterm 2 Prep: [Mock Exam](resources/exams/mockmidterm2.pdf), [Solutions](resources/exams/mockmidterm2sol.pdf), and [Rubric](resources/exams/mockmidterm2rubric.pdf)":
       - date: 2024-3-6
         events:
