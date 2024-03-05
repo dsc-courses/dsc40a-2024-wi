@@ -10,7 +10,7 @@
           # "**DISC**{: .label .label-disc } [Extra Practice for Final Part 1](resources/exams/extra_practice_part1.pdf)":
       - date: 2024-3-13
         events:
-          "**EXAM**{: .label .label-exam } Midterm 2 (during lecture)":
+          "**EXAM**{: .label .label-exam } Midterm 2 (during lecture) [Mock Midterm](resources/lecture/mockmidterm2.pdf)":
       - date: 2023-3-15
         events:
           "**LEC 26**{: .label .label-lecture } [Review Session](resources/exams/extra_practice_part1_solutions.pdf) ":
