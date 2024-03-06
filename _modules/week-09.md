@@ -9,7 +9,7 @@
           # "**DISC**{: .label .label-disc } Midterm 2 Prep: [Mock Exam](resources/exams/mockmidterm2.pdf), [Solutions](resources/exams/mockmidterm2sol.pdf), and [Rubric](resources/exams/mockmidterm2rubric.pdf)":
       - date: 2024-3-6
         events:
-         "**LEC 23**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec23.pdf) ":
+         "**LEC 23**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec23.pdf) [✏️](resources/lecture/lec23-marked.pdf)":
           # "**HW 7**{: .label .label-hw } [Homework 7](resources/homework/hw7/homework7.pdf) [🍃](https://www.overleaf.com/read/zkppqvmmtbtb)":
       - date: 2024-3-8
         events:
