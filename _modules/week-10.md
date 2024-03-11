@@ -5,7 +5,7 @@
     days:
       - date: 2024-3-11
         events:
-          "**LEC 25**{: .label .label-lecture } [Precision and Recall](resources/lecture/lec25.pdf) ":
+          "**LEC 25**{: .label .label-lecture } [Precision and Recall](resources/lecture/lec25.pdf) [✏️](resources/lecture/lec25-marked.pdf) ":
           "**DISC**{: .label .label-disc }":
           # "**DISC**{: .label .label-disc } [Extra Practice for Final Part 1](resources/exams/extra_practice_part1.pdf)":
       - date: 2024-3-13
