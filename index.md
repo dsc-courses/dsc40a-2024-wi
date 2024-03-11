@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Lec. 16 annotated notes are posted.
+Midterm 2 Seat has been posted, please find it [Here](resources/lecture/midterm2_seat.pdf). This time it is sorted in alphabetical order of your first name. If you could not find your name in the seating chart, please wait near the podium similar to last time.
 
 {{ site.staffersnobio }}
 
