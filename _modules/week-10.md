@@ -17,7 +17,6 @@
       - date: 2024-3-22
         events:
           "**EXAM**{: .label .label-exam } Final Exam, location TBA (Part 1 at 11:30am, Part 2 at 1:00pm) [🪑](resources/exams/seating_final.pdf) [📝](resources/exams/reference_final1.pdf)":
-          "**SURV**{: .label .label-survey } ":
           "**SURV**{: .label .label-survey } [Course Evaluations](https://academicaffairs.ucsd.edu/Modules/Evals?e11210304)":
 
 ---
