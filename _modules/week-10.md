@@ -7,7 +7,7 @@
         events:
           "**LEC 25**{: .label .label-lecture } [Precision and Recall](resources/lecture/lec25.pdf) [✏️](resources/lecture/lec25-marked.pdf) ":
           # "**DISC**{: .label .label-disc }":
-          "**DISC**{: .label .label-disc } [Notes](resources/exams/groupwork_notes.pdf)":
+          "**DISC**{: .label .label-disc } [Notes](resources/groupwork/groupwork_notes.pdf)":
       - date: 2024-3-13
         events:
           "**EXAM**{: .label .label-exam } Midterm 2 (during lecture) [Mock Midterm](resources/lecture/mockmidterm2.pdf) [Mock Midterm Solution](resources/exams/mockmidterm2sol.pdf)" :
