@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Midterm 2 Seat has been posted, please find it [Here](resources/lecture/midterm2_seat.pdf). This time it is sorted in alphabetical order of your first name. If you could not find your name in the seating chart, please wait near the podium similar to last time.
+Final seat has been posted, please find it [Here](https://campuswire.com/c/G05938D13/feed/329). This time it is sorted in alphabetical order of your first name. If you could not find your name in the seating chart, please wait near the podium similar to last time. Please note that the final is optional.
 
 {{ site.staffersnobio }}
 
