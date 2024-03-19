@@ -10,7 +10,7 @@
           "**DISC**{: .label .label-disc } [Notes](resources/groupwork/groupwork_notes.pdf)":
       - date: 2024-3-13
         events:
-          "**EXAM**{: .label .label-exam } Midterm 2 (during lecture) [Mock Midterm](resources/lecture/mockmidterm2.pdf) [Mock Midterm Solution](resources/exams/mockmidterm2sol.pdf) [Midterm 2 WI24 Solution](resources/exams/midterm2_solution_WI24.pdf) ":
+          "**EXAM**{: .label .label-exam } Midterm 2 (during lecture) [Mock Midterm](resources/lecture/mockmidterm2.pdf) [Mock Midterm Solution](resources/exams/mockmidterm2sol.pdf) [Midterm 2](resources/exams/wi24_midterm_2.pdf) [Midterm 2 WI24 Solution](resources/exams/midterm2_solution_WI24.pdf) ":
       - date: 2023-3-15
         events:
           "**LEC 26**{: .label .label-lecture } [Review Session](resources/exams/extra_practice_part1_solutions.pdf) ":
